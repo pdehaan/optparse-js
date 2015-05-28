@@ -5,8 +5,9 @@
     "keywords": ["option", "parser", "command-line", "cli", "terminal"],
     "version": "1.0.5",
     "repository": {
-         "type": "git",
-         "url": "git://github.com/jfd/optparse-js.git"
-     },
+        "type": "git",
+        "url": "git://github.com/jfd/optparse-js.git"
+    },
+    "license": "MIT",
     "main": "./lib/optparse"
 }
